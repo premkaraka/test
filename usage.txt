@@ -1,0 +1,49 @@
+GIT HUB
+Version Control System
+
+File1.txt
+25-Nov-2017 - Create
+26-Nov-2017 - Update
+27-Nov-2017 - Update  (wrong update)
+28-Nov-2017 - 26-Nov-2017 - Update
+
+
+28-Nov-2o17
+
+File2.txt
+
+Reuben - Create 25-No-2017
+Prem - 26-Nov-2017 -Update
+Reuben - 27-Nov-2017 - update
+Prem  -27-Nov-2017 - Update
+
+Who changed it?
+what are the changes?
+when were they made?
+
+
+Linus Torvalds
+
+Github - Repository - File Storage
+
+Local Repository - Local Computer 
+Server Repository - Github - Accessed using a URL
+
+Local Repository 
+-> Workspace
+-> Indexer
+-> Local Repository (Upon commit)
+
+Server Repository - 
+Local to server Push
+Branch
+
+
+Github isfree (public repository) and also premium ( private repository)
+
+
+
+
+
+
+
