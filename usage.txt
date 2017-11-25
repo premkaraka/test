@@ -31,18 +31,17 @@ Server Repository - Github - Accessed using a URL
 
 Local Repository 
 -> Workspace
--> Indexer
--> Local Repository (Upon commit)
+-> Indexer using git add
+-> Local Repository (Upon commit) using git commit -m "message"
 
 Server Repository - 
-Local to server Push
-Branch
+Local to server Push Using :git push origin master
 
 
 Github isfree (public repository) and also premium ( private repository)
 
 
-
+call me
 
 
 
